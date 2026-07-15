@@ -1,0 +1,83 @@
+name: aplikasi_finansialpendidikan
+description: Sistem Pengelompokan Kemampuan Finansial Mahasiswa untuk Seleksi Bantuan Pendidikan
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  flutter_riverpod: ^2.5.1
+  riverpod_annotation: ^2.3.5
+
+  # Navigation
+  go_router: ^14.0.2
+
+  # HTTP
+  dio: ^5.4.3+1
+
+  # Animations
+  flutter_animate: ^4.5.0
+  lottie: ^3.1.2
+
+  # Loading
+  shimmer: ^3.0.0
+
+  # Images
+  cached_network_image: ^3.3.1
+
+  # Secure Storage
+  flutter_secure_storage: ^9.0.0
+
+  # File Picker
+  file_picker: ^8.0.3
+
+  # UI
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  fl_chart: ^0.68.0
+  flutter_svg: ^2.0.10+1
+
+  # Utils
+  intl: ^0.19.0
+  uuid: ^4.4.0
+  equatable: ^2.0.5
+  json_annotation: ^4.9.0
+  freezed_annotation: ^2.4.4
+  path: ^1.9.0
+
+  # Connectivity
+  connectivity_plus: ^6.0.3
+
+  # Toast/Snackbar
+  fluttertoast: ^8.2.5
+
+  # Image
+  image_picker: ^1.1.1
+  web_socket_channel: ^2.4.5
+  image_cropper: 7.0.0
+  audioplayers: ^5.2.1
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.9
+  json_serializable: ^6.7.1
+  freezed: ^2.5.2
+  riverpod_generator: ^2.4.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/animations/
+    - assets/images/
+    - assets/icons/
+    - assets/sounds/

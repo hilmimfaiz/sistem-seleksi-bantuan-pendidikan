@@ -1,0 +1,101 @@
+index,nim,nama,email,prodi,fakultas,angkatan,jenis_kelamin,alamat,nomor_hp,ukt_awal,pendapatan_orang_tua,jumlah_tanggungan,pengeluaran_bulanan,uang_saku,literasi_keuangan,gaya_hidup
+1,21770487,Dian Wijaya,dummy1_21770487@student.ac.id,Manajemen,Fakultas Teknik,2021,LAKI_LAKI,Jl. Dummy No. 95,081223756669,6000000,7574866,2,2738352,1042417,5,4
+2,21198246,Joko Wibowo,dummy2_21198246@student.ac.id,Ilmu Komunikasi,Fakultas Ilmu Sosial,2020,LAKI_LAKI,Jl. Dummy No. 92,081297226012,5000000,6768238,4,2083408,1448749,5,5
+3,21832052,Nisa Halim,dummy3_21832052@student.ac.id,Manajemen,Fakultas Teknik,2021,PEREMPUAN,Jl. Dummy No. 14,081222448136,4000000,2777324,5,1433052,438685,3,4
+4,21662275,Dian Hutagalung,dummy4_21662275@student.ac.id,Teknik Informatika,Fakultas Ilmu Sosial,2022,PEREMPUAN,Jl. Dummy No. 74,081235808537,1500000,1477937,5,883667,422049,3,4
+5,21391476,Ratna Nasution,dummy5_21391476@student.ac.id,Sistem Informasi,Fakultas Ekonomi,2022,LAKI_LAKI,Jl. Dummy No. 86,081245833156,6000000,4435615,4,2013405,771339,8,7
+6,21383060,Iqbal Wibowo,dummy6_21383060@student.ac.id,Manajemen,Fakultas Teknik,2021,LAKI_LAKI,Jl. Dummy No. 41,081263843426,3000000,2914985,5,1022955,561740,6,4
+7,21249811,Tari Putri,dummy7_21249811@student.ac.id,Sistem Informasi,Fakultas Ilmu Sosial,2022,PEREMPUAN,Jl. Dummy No. 75,081263606628,3500000,1290102,6,895325,324702,3,2
+8,21757924,Fajar Panjaitan,dummy8_21757924@student.ac.id,Ilmu Komunikasi,Fakultas Teknik,2023,PEREMPUAN,Jl. Dummy No. 77,081272820592,5000000,2160198,3,920116,581527,5,3
+9,21216970,Zainal Panjaitan,dummy9_21216970@student.ac.id,Sistem Informasi,Fakultas Ekonomi,2020,PEREMPUAN,Jl. Dummy No. 65,081233978249,5000000,18014145,3,7258584,4054206,7,7
+10,21492077,Fajar Santoso,dummy10_21492077@student.ac.id,Ilmu Komunikasi,Fakultas Ekonomi,2023,LAKI_LAKI,Jl. Dummy No. 15,081258718453,3000000,1505144,3,889814,554798,3,5
+11,21903035,Agus Putri,dummy11_21903035@student.ac.id,Akuntansi,Fakultas Ilmu Sosial,2021,PEREMPUAN,Jl. Dummy No. 68,081291415657,4000000,14749509,3,5614865,3173494,8,9
+12,21642717,Aulia Nugroho,dummy12_21642717@student.ac.id,Sistem Informasi,Fakultas Teknik,2020,PEREMPUAN,Jl. Dummy No. 3,081288961459,5000000,1461829,3,874441,330866,4,1
+13,21132938,Nur Kusuma,dummy13_21132938@student.ac.id,Ilmu Komunikasi,Fakultas Teknik,2022,PEREMPUAN,Jl. Dummy No. 28,081282374753,2000000,7790256,4,2491262,854801,8,7
+14,21299659,Putra Setiawan,dummy14_21299659@student.ac.id,Akuntansi,Fakultas Ekonomi,2023,PEREMPUAN,Jl. Dummy No. 60,081217270733,6000000,3825588,2,2344358,1363587,7,4
+15,21360735,Indra Purnama,dummy15_21360735@student.ac.id,Ilmu Komunikasi,Fakultas Ekonomi,2021,PEREMPUAN,Jl. Dummy No. 24,081247385696,4500000,2936228,3,1264656,588528,3,1
+16,21783823,Gilang Santoso,dummy16_21783823@student.ac.id,Teknik Informatika,Fakultas Teknik,2021,PEREMPUAN,Jl. Dummy No. 63,081274606833,2500000,9967477,1,6179056,1509040,9,8
+17,21922157,Ratna Maulana,dummy17_21922157@student.ac.id,Akuntansi,Fakultas Ilmu Sosial,2023,LAKI_LAKI,Jl. Dummy No. 25,081249823450,2500000,10045396,3,5630707,1739768,6,10
+18,21599948,Cahya Sari,dummy18_21599948@student.ac.id,Teknik Informatika,Fakultas Ilmu Sosial,2020,LAKI_LAKI,Jl. Dummy No. 9,081289864260,1500000,4973033,3,1751420,1197347,6,4
+19,21749468,Rizky Marpaung,dummy19_21749468@student.ac.id,Ilmu Komunikasi,Fakultas Ilmu Sosial,2022,PEREMPUAN,Jl. Dummy No. 27,081299889098,3500000,1830023,4,1476856,457284,6,3
+20,21888387,Dewi Santoso,dummy20_21888387@student.ac.id,Akuntansi,Fakultas Ilmu Sosial,2020,LAKI_LAKI,Jl. Dummy No. 69,081238609087,5000000,2957186,5,872132,428075,5,3
+21,21265409,Aulia Syahputra,dummy21_21265409@student.ac.id,Ilmu Komunikasi,Fakultas Ilmu Sosial,2020,PEREMPUAN,Jl. Dummy No. 85,081223903144,2000000,2865862,3,1380097,381499,5,3
+22,21734210,Joko Halim,dummy22_21734210@student.ac.id,Sistem Informasi,Fakultas Ilmu Sosial,2022,PEREMPUAN,Jl. Dummy No. 33,081216818112,1500000,5320961,2,1507435,949759,6,6
+23,21269430,Doni Panggabean,dummy23_21269430@student.ac.id,Ilmu Komunikasi,Fakultas Ilmu Sosial,2023,LAKI_LAKI,Jl. Dummy No. 15,081220099059,2000000,6097208,4,2658729,755287,8,5
+24,21143860,Ahmad Nasution,dummy24_21143860@student.ac.id,Teknik Informatika,Fakultas Ekonomi,2021,LAKI_LAKI,Jl. Dummy No. 86,081223796726,3500000,6408940,4,1824121,848237,6,5
+25,21532322,Andi Ramadhan,dummy25_21532322@student.ac.id,Manajemen,Fakultas Ekonomi,2021,PEREMPUAN,Jl. Dummy No. 21,081224508349,4000000,23793736,1,4674138,4925012,9,8
+26,21420015,Rini Wibowo,dummy26_21420015@student.ac.id,Teknik Informatika,Fakultas Ilmu Sosial,2021,PEREMPUAN,Jl. Dummy No. 43,081247393469,1500000,17365880,2,7273204,3176372,10,8
+27,21128941,Dian Handayani,dummy27_21128941@student.ac.id,Sistem Informasi,Fakultas Ilmu Sosial,2022,LAKI_LAKI,Jl. Dummy No. 14,081290070438,4000000,2649259,5,1257592,568132,3,4
+28,21704596,Indra Handayani,dummy28_21704596@student.ac.id,Teknik Informatika,Fakultas Ilmu Sosial,2023,LAKI_LAKI,Jl. Dummy No. 67,081282269803,6000000,4652850,3,2404496,673372,7,6
+29,21795612,Dian Syahputra,dummy29_21795612@student.ac.id,Ilmu Komunikasi,Fakultas Ekonomi,2023,PEREMPUAN,Jl. Dummy No. 52,081249682169,5000000,1881739,6,982480,598375,5,4
+30,21674553,Budi Syahputra,dummy30_21674553@student.ac.id,Manajemen,Fakultas Teknik,2023,PEREMPUAN,Jl. Dummy No. 60,081269295515,4500000,7288038,3,1855868,1290855,5,6
+31,21640490,Rian Halim,dummy31_21640490@student.ac.id,Teknik Informatika,Fakultas Teknik,2022,LAKI_LAKI,Jl. Dummy No. 26,081229777514,1000000,1996433,3,1277538,517286,7,2
+32,21853240,Kevin Hutagalung,dummy32_21853240@student.ac.id,Akuntansi,Fakultas Ekonomi,2021,LAKI_LAKI,Jl. Dummy No. 84,081210744212,1500000,4835772,2,2959432,1143118,8,4
+33,21684482,Sari Nugroho,dummy33_21684482@student.ac.id,Akuntansi,Fakultas Teknik,2023,PEREMPUAN,Jl. Dummy No. 97,081269401199,5500000,24937544,2,7595883,3370297,7,9
+34,21571932,Tari Suryono,dummy34_21571932@student.ac.id,Manajemen,Fakultas Ilmu Sosial,2023,LAKI_LAKI,Jl. Dummy No. 36,081269038700,1500000,4967074,3,2204323,935239,5,5
+35,21258157,Rini Hutagalung,dummy35_21258157@student.ac.id,Sistem Informasi,Fakultas Ilmu Sosial,2021,LAKI_LAKI,Jl. Dummy No. 54,081264707061,3500000,6487767,2,1933763,1473349,8,7
+36,21907189,Bayu Wijaya,dummy36_21907189@student.ac.id,Ilmu Komunikasi,Fakultas Ekonomi,2023,LAKI_LAKI,Jl. Dummy No. 46,081250079111,4000000,22060021,3,7581289,4854890,10,7
+37,21611945,Rini Utami,dummy37_21611945@student.ac.id,Akuntansi,Fakultas Ekonomi,2020,PEREMPUAN,Jl. Dummy No. 44,081299774697,6000000,4384495,3,1767654,1252483,5,7
+38,21720644,Surya Wijaya,dummy38_21720644@student.ac.id,Teknik Informatika,Fakultas Ilmu Sosial,2023,LAKI_LAKI,Jl. Dummy No. 60,081234391257,1000000,1686508,4,1276786,471361,5,4
+39,21391773,Fikri Handayani,dummy39_21391773@student.ac.id,Teknik Informatika,Fakultas Ekonomi,2020,LAKI_LAKI,Jl. Dummy No. 45,081240094589,6000000,2366828,3,832537,429647,4,1
+40,21751517,Eko Suryono,dummy40_21751517@student.ac.id,Sistem Informasi,Fakultas Ekonomi,2020,LAKI_LAKI,Jl. Dummy No. 60,081244392446,3500000,2273490,3,971720,463073,3,5
+41,21126925,Ahmad Hutagalung,dummy41_21126925@student.ac.id,Akuntansi,Fakultas Ilmu Sosial,2021,LAKI_LAKI,Jl. Dummy No. 76,081294187049,2500000,2620009,5,1429577,363467,7,1
+42,21464069,Gilang Panjaitan,dummy42_21464069@student.ac.id,Manajemen,Fakultas Teknik,2022,LAKI_LAKI,Jl. Dummy No. 54,081275793759,1500000,6038253,4,2464143,1341666,6,7
+43,21284692,Deni Utami,dummy43_21284692@student.ac.id,Ilmu Komunikasi,Fakultas Ilmu Sosial,2023,PEREMPUAN,Jl. Dummy No. 56,081289520597,3000000,1514840,3,1092477,536350,4,4
+44,21697530,Hasan Hutagalung,dummy44_21697530@student.ac.id,Manajemen,Fakultas Teknik,2023,PEREMPUAN,Jl. Dummy No. 24,081275437844,2500000,1541804,5,1093243,444844,7,1
+45,21641722,Indra Hidayat,dummy45_21641722@student.ac.id,Sistem Informasi,Fakultas Ilmu Sosial,2023,PEREMPUAN,Jl. Dummy No. 72,081242255732,4500000,7117307,3,1536161,697573,7,5
+46,21524045,Kevin Suryono,dummy46_21524045@student.ac.id,Manajemen,Fakultas Ilmu Sosial,2022,PEREMPUAN,Jl. Dummy No. 71,081281259135,3500000,7616993,3,2237800,1336996,8,6
+47,21421517,Tari Wibowo,dummy47_21421517@student.ac.id,Teknik Informatika,Fakultas Ilmu Sosial,2021,PEREMPUAN,Jl. Dummy No. 16,081281922443,2000000,2548966,6,1089930,575060,7,3
+48,21205409,Indra Maulana,dummy48_21205409@student.ac.id,Sistem Informasi,Fakultas Ekonomi,2021,PEREMPUAN,Jl. Dummy No. 2,081281690398,2000000,1114349,5,932413,557361,3,1
+49,21701949,Zainal Sihombing,dummy49_21701949@student.ac.id,Akuntansi,Fakultas Ekonomi,2022,LAKI_LAKI,Jl. Dummy No. 7,081243887075,4500000,1137035,6,1315633,338840,7,1
+50,21259097,Eko Syahputra,dummy50_21259097@student.ac.id,Teknik Informatika,Fakultas Teknik,2020,PEREMPUAN,Jl. Dummy No. 78,081290010790,5500000,2095914,6,1272398,532113,5,5
+51,21549660,Ahmad Saputra,dummy51_21549660@student.ac.id,Ilmu Komunikasi,Fakultas Ilmu Sosial,2020,LAKI_LAKI,Jl. Dummy No. 81,081238323322,3000000,4317490,2,1864513,1178805,5,5
+52,21102805,Fikri Panggabean,dummy52_21102805@student.ac.id,Ilmu Komunikasi,Fakultas Ekonomi,2022,LAKI_LAKI,Jl. Dummy No. 30,081248668783,3000000,6808690,2,2941550,844762,7,5
+53,21545790,Dian Wibowo,dummy53_21545790@student.ac.id,Sistem Informasi,Fakultas Ekonomi,2021,LAKI_LAKI,Jl. Dummy No. 8,081232269779,3000000,7774854,3,2420971,730394,8,6
+54,21833723,Ilham Utami,dummy54_21833723@student.ac.id,Ilmu Komunikasi,Fakultas Ilmu Sosial,2023,PEREMPUAN,Jl. Dummy No. 11,081290267122,1000000,18815317,3,5100238,1608485,6,7
+55,21807053,Surya Wijaya,dummy55_21807053@student.ac.id,Manajemen,Fakultas Ilmu Sosial,2020,LAKI_LAKI,Jl. Dummy No. 61,081279654147,6000000,5333346,2,2727525,1057058,8,4
+56,21592841,Wahyu Marpaung,dummy56_21592841@student.ac.id,Manajemen,Fakultas Ekonomi,2020,LAKI_LAKI,Jl. Dummy No. 43,081265250068,4500000,2982214,6,1376818,319239,6,1
+57,21429795,Tari Gunawan,dummy57_21429795@student.ac.id,Teknik Informatika,Fakultas Ekonomi,2020,PEREMPUAN,Jl. Dummy No. 53,081217275149,2500000,7181663,4,2427027,1396907,5,5
+58,21380028,Reza Putri,dummy58_21380028@student.ac.id,Manajemen,Fakultas Ekonomi,2023,LAKI_LAKI,Jl. Dummy No. 4,081294560158,5500000,4328572,3,2655193,614338,8,4
+59,21335615,Dian Sitompul,dummy59_21335615@student.ac.id,Teknik Informatika,Fakultas Ilmu Sosial,2021,PEREMPUAN,Jl. Dummy No. 92,081249172995,5000000,6485385,3,2490316,855570,8,5
+60,21502219,Indra Sinaga,dummy60_21502219@student.ac.id,Sistem Informasi,Fakultas Teknik,2022,PEREMPUAN,Jl. Dummy No. 44,081278147397,3000000,17490501,3,5504467,3961795,10,9
+61,21255813,Aulia Sihombing,dummy61_21255813@student.ac.id,Manajemen,Fakultas Ekonomi,2023,PEREMPUAN,Jl. Dummy No. 42,081235320492,2500000,4959263,3,1591535,933632,8,7
+62,21504832,Rian Lestari,dummy62_21504832@student.ac.id,Akuntansi,Fakultas Teknik,2021,PEREMPUAN,Jl. Dummy No. 13,081269096899,1500000,6832990,2,1802315,1029893,6,4
+63,21592296,Tari Halim,dummy63_21592296@student.ac.id,Ilmu Komunikasi,Fakultas Ilmu Sosial,2023,LAKI_LAKI,Jl. Dummy No. 43,081281621574,4000000,24372800,3,3301143,4089812,6,7
+64,21761820,Aldo Maulana,dummy64_21761820@student.ac.id,Sistem Informasi,Fakultas Ilmu Sosial,2020,PEREMPUAN,Jl. Dummy No. 13,081295060193,1500000,5512103,2,1596450,940131,5,6
+65,21475876,Dimas Panjaitan,dummy65_21475876@student.ac.id,Sistem Informasi,Fakultas Teknik,2023,LAKI_LAKI,Jl. Dummy No. 22,081233497411,1500000,6209014,4,2932637,852528,8,5
+66,21343467,Ratna Handayani,dummy66_21343467@student.ac.id,Akuntansi,Fakultas Ekonomi,2020,PEREMPUAN,Jl. Dummy No. 37,081283363160,2000000,2982302,5,1416113,456842,6,3
+67,21579027,Ahmad Purnama,dummy67_21579027@student.ac.id,Akuntansi,Fakultas Ekonomi,2020,LAKI_LAKI,Jl. Dummy No. 49,081286762164,3500000,5476575,2,2880407,1015032,7,4
+68,21693419,Aldo Saputra,dummy68_21693419@student.ac.id,Ilmu Komunikasi,Fakultas Ilmu Sosial,2023,PEREMPUAN,Jl. Dummy No. 100,081240885967,5500000,15348572,3,4594942,4104206,8,7
+69,21758765,Putra Pratama,dummy69_21758765@student.ac.id,Manajemen,Fakultas Ekonomi,2020,PEREMPUAN,Jl. Dummy No. 94,081227637794,1500000,18962874,3,6485492,2236687,7,7
+70,21924718,Gilang Nasution,dummy70_21924718@student.ac.id,Ilmu Komunikasi,Fakultas Ilmu Sosial,2022,LAKI_LAKI,Jl. Dummy No. 33,081274672520,3000000,5841349,2,2482162,678957,6,5
+71,21809176,Deni Simanjuntak,dummy71_21809176@student.ac.id,Ilmu Komunikasi,Fakultas Ekonomi,2020,PEREMPUAN,Jl. Dummy No. 2,081245495029,5000000,1772980,5,1412955,499767,5,1
+72,21807617,Rini Sihombing,dummy72_21807617@student.ac.id,Teknik Informatika,Fakultas Ilmu Sosial,2022,LAKI_LAKI,Jl. Dummy No. 83,081218484847,6000000,18139819,3,6425033,1989374,7,6
+73,21139019,Ahmad Nababan,dummy73_21139019@student.ac.id,Teknik Informatika,Fakultas Teknik,2021,LAKI_LAKI,Jl. Dummy No. 50,081270887034,3500000,7531463,3,2731741,1378325,6,7
+74,21786735,Putra Nababan,dummy74_21786735@student.ac.id,Ilmu Komunikasi,Fakultas Ekonomi,2022,LAKI_LAKI,Jl. Dummy No. 89,081259731689,2500000,4980656,3,1708361,1318987,7,6
+75,21163491,Ilham Utami,dummy75_21163491@student.ac.id,Sistem Informasi,Fakultas Teknik,2023,LAKI_LAKI,Jl. Dummy No. 85,081238468360,6000000,3179159,2,2199419,855400,6,5
+76,21171942,Reza Kurniawan,dummy76_21171942@student.ac.id,Ilmu Komunikasi,Fakultas Teknik,2021,PEREMPUAN,Jl. Dummy No. 100,081229804386,5500000,2800208,4,936306,583228,5,2
+77,21215266,Rian Wijaya,dummy77_21215266@student.ac.id,Sistem Informasi,Fakultas Teknik,2022,LAKI_LAKI,Jl. Dummy No. 76,081253455870,1000000,1109888,4,1241409,575820,3,1
+78,21599380,Aulia Nasution,dummy78_21599380@student.ac.id,Ilmu Komunikasi,Fakultas Ilmu Sosial,2020,PEREMPUAN,Jl. Dummy No. 65,081239735904,5500000,2642546,5,1280292,316331,3,4
+79,21988456,Ilham Panjaitan,dummy79_21988456@student.ac.id,Teknik Informatika,Fakultas Ekonomi,2023,LAKI_LAKI,Jl. Dummy No. 11,081253233116,5500000,1264642,5,1454644,587496,5,4
+80,21726410,Bagus Maulana,dummy80_21726410@student.ac.id,Akuntansi,Fakultas Ilmu Sosial,2023,LAKI_LAKI,Jl. Dummy No. 90,081225356396,6000000,7624935,4,1950936,1050961,8,5
+81,21533914,Nur Sitompul,dummy81_21533914@student.ac.id,Akuntansi,Fakultas Ekonomi,2020,PEREMPUAN,Jl. Dummy No. 55,081251946203,6000000,2999828,4,1297305,335197,3,1
+82,21197758,Nisa Setiawan,dummy82_21197758@student.ac.id,Manajemen,Fakultas Teknik,2020,PEREMPUAN,Jl. Dummy No. 86,081226405605,4000000,2395320,6,853945,450800,7,3
+83,21468727,Putra Sinaga,dummy83_21468727@student.ac.id,Sistem Informasi,Fakultas Teknik,2023,LAKI_LAKI,Jl. Dummy No. 14,081256991504,5000000,2599299,5,1401987,418572,6,5
+84,21904711,Hasan Wijaya,dummy84_21904711@student.ac.id,Ilmu Komunikasi,Fakultas Ilmu Sosial,2022,LAKI_LAKI,Jl. Dummy No. 24,081246677730,3000000,19778391,1,4521740,2100840,10,9
+85,21172965,Eko Wijaya,dummy85_21172965@student.ac.id,Teknik Informatika,Fakultas Ilmu Sosial,2021,PEREMPUAN,Jl. Dummy No. 54,081270887307,3500000,1653550,5,1395164,344541,3,2
+86,21265056,Hasan Saputra,dummy86_21265056@student.ac.id,Teknik Informatika,Fakultas Ekonomi,2023,PEREMPUAN,Jl. Dummy No. 63,081291480362,4500000,4808323,4,1738692,961939,8,4
+87,21397005,Aldo Nababan,dummy87_21397005@student.ac.id,Ilmu Komunikasi,Fakultas Ilmu Sosial,2022,LAKI_LAKI,Jl. Dummy No. 29,081263051354,5500000,1428706,5,1021494,371950,5,3
+88,21444061,Dian Santoso,dummy88_21444061@student.ac.id,Akuntansi,Fakultas Ilmu Sosial,2023,LAKI_LAKI,Jl. Dummy No. 17,081261030579,5000000,7196504,4,2900998,1445362,7,4
+89,21516359,Doni Pratama,dummy89_21516359@student.ac.id,Akuntansi,Fakultas Teknik,2023,LAKI_LAKI,Jl. Dummy No. 41,081287277086,4000000,6503870,3,1741536,1024707,5,6
+90,21280222,Hasan Sitompul,dummy90_21280222@student.ac.id,Manajemen,Fakultas Teknik,2023,LAKI_LAKI,Jl. Dummy No. 32,081268475513,5500000,3659739,3,2150692,1382033,7,5
+91,21449247,Fajar Kusuma,dummy91_21449247@student.ac.id,Ilmu Komunikasi,Fakultas Ilmu Sosial,2020,LAKI_LAKI,Jl. Dummy No. 100,081256892354,3500000,4238912,2,1715596,753557,7,5
+92,21281926,Arif Lestari,dummy92_21281926@student.ac.id,Teknik Informatika,Fakultas Teknik,2023,PEREMPUAN,Jl. Dummy No. 97,081285663295,5500000,7735300,4,2832317,1254858,7,6
+93,21258290,Aulia Kusuma,dummy93_21258290@student.ac.id,Akuntansi,Fakultas Ekonomi,2022,PEREMPUAN,Jl. Dummy No. 76,081217539294,3500000,5603889,3,2447732,639434,5,6
+94,21972097,Zainal Kusuma,dummy94_21972097@student.ac.id,Teknik Informatika,Fakultas Ilmu Sosial,2023,PEREMPUAN,Jl. Dummy No. 75,081284399083,1000000,7795403,4,1894766,937145,8,5
+95,21164879,Aulia Setiawan,dummy95_21164879@student.ac.id,Manajemen,Fakultas Ilmu Sosial,2020,LAKI_LAKI,Jl. Dummy No. 6,081243251599,4500000,13326638,2,6127709,2686541,9,9
+96,21912085,Nur Saputra,dummy96_21912085@student.ac.id,Manajemen,Fakultas Teknik,2022,LAKI_LAKI,Jl. Dummy No. 72,081261883769,3000000,2785863,4,1149555,342730,7,2
+97,21466813,Ahmad Simanjuntak,dummy97_21466813@student.ac.id,Sistem Informasi,Fakultas Ilmu Sosial,2020,PEREMPUAN,Jl. Dummy No. 72,081260557040,6000000,4072011,4,2973943,1469226,5,7
+98,21633188,Dimas Wijaya,dummy98_21633188@student.ac.id,Manajemen,Fakultas Ekonomi,2021,LAKI_LAKI,Jl. Dummy No. 44,081275266178,2500000,1288495,4,880913,455080,3,5
+99,21908320,Gilang Pratama,dummy99_21908320@student.ac.id,Manajemen,Fakultas Ilmu Sosial,2021,PEREMPUAN,Jl. Dummy No. 20,081231776452,2000000,13554572,3,6671470,1683259,9,8
+100,21809217,Deni Suryono,dummy100_21809217@student.ac.id,Akuntansi,Fakultas Ilmu Sosial,2022,PEREMPUAN,Jl. Dummy No. 30,081281673763,2500000,2695807,6,1003440,492854,7,4
