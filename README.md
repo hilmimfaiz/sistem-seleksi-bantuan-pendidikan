@@ -174,7 +174,7 @@ flutter run
 ## 👤 Developer
 
 **Hilmi Muhammad Faiz**
-NIM: 2311081019 | Program Studi Sistem Informasi
+NIM: 2311081019 | Program Studi D4 Teknologi Rekayasa Perangkat Lunak
 
 ---
 
